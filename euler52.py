@@ -15,6 +15,7 @@ while True:
             num4_ = 4 * x
             num5_ = 5 * x
             num6_ = 6 * x
+            break
     for a in str(num1_):
         mylist1.append(a)
     for a in str(num2_):
